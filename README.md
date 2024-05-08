@@ -1,2 +1,2 @@
 # Magic-Mirror
-Project Code for Course Applications of Augmented Reality (EN.601.453/653) Spring 2024 Alejandro Martin Gomez
+This repository contains the official authors implementation associated with the project "Magic Mirror: An Educational AR Application with Monocular RGB Camera".
