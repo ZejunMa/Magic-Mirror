@@ -1,8 +1,5 @@
-
-
-
-##Installation Guide
-In this section we demonstrate how to set up environment and  install dependencies for our project, including miniconda, pytorch, poseMM, camera virtualization, Unity and communications.  
+## Installation Guide
+In this section, we demonstrate how to set up the environment and  install dependencies for our project, including miniconda, pytorch, poseMM, camera virtualization, Unity, and communications.  
 
 ### Computer Requirement 
 Monocular RGB camera. 
