@@ -49,9 +49,9 @@ The folder contains the unity project, including all assets， plug-in files, an
 Step 0: C# and .NET configuration 
 Make sure VS Code is installed before. Install C# Extension and .NET Install Tool, and use which to configure .NET environment. 
 
-Step 1: In VS Code turn on the command panel (Windows and Linux: shortcut ctrl+shift+P), input ‘NuGet’ -> ‘Add Package ’ -> add packages ‘AsyncIO’, ‘NetMQ’, ‘Newtonsoft.Json’, ‘NACI’. Then copy the .dll files of these packages, which can be found in the NuGet installation folder, to ‘.Assets/Plugins’. 
+Step 1: In VS Code turn on the command panel (Windows and Linux: shortcut ctrl+shift+P), input ‘NuGet` -> ‘Add Package· -> add packages ‘AsyncIO`, ‘NetMQ`, ‘Newtonsoft.Json`, ‘NACI`. Then copy the .dll files of these packages, which can be found in the NuGet installation folder, to ‘.Assets/Plugins`. 
 
-Step2: Install ‘pyzmq’ via ‘pip install pyzmq’ in Python.
+Step2: Install ‘pyzmq` via ‘pip install pyzmq` in Python.
 
 
 ### Camera Virtualization 
