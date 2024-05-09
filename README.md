@@ -22,7 +22,7 @@ pip install torch==2.2.2 torchvision==0.17.2 torchaudio==2.2.2 --index-url https
 ```
 
 Attention: Make sure the Cuda runtime version is lower than 12.1. In our project environment, we build everything based on CUDA Toolkit 12.1. The default command from the official website will automatically install the latest version of PyTorch, this might cause an incompatible issue with poseMM.
-We recommend installing CUDA runtime 12.1 and using the command given above.
+We would recommend that you install CUDA runtime 12.1 and use the command given above.
 
 Step4: Install MMEngine and MMCV using MIM.
 ```
@@ -49,9 +49,9 @@ The folder contains the unity project, including all assets， plug-in files, an
 Step 0: C# and .NET configuration 
 Make sure VS Code is installed before. Install C# Extension and .NET Install Tool, and use which to configure .NET environment. 
 
-Step 1: In VS Code turn on the command panel (Windows and Linux: shortcut ctrl+shift+P), input ‘NuGet` -> ‘Add Package· -> add packages ‘AsyncIO`, ‘NetMQ`, ‘Newtonsoft.Json`, ‘NACI`. Then copy the .dll files of these packages, which can be found in the NuGet installation folder, to ‘.Assets/Plugins`. 
+Step 1: In VS Code turn on the command panel (Windows and Linux: shortcut ctrl+shift+P), input `NuGet` -> `Add Package` -> add packages `AsyncIO`, `NetMQ`, `Newtonsoft.Json`, `NACI`. Then copy the .dll files of these packages, which can be found in the NuGet installation folder, to `.Assets/Plugins`. 
 
-Step2: Install ‘pyzmq` via ‘pip install pyzmq` in Python.
+Step2: Install `pyzmq` via `pip install pyzmq` in Python.
 
 
 ### Camera Virtualization 
