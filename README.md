@@ -35,11 +35,11 @@ Install mmdet as a dependency by running:
 mim install "mmdet>=3.1.0"
 ```
 ### Unity
-install Unity at the official [website](https://1drv.ms/u/c/7f140570b31b938e/EUWoPQaSmrxNnvQVNrEAElEBCqbGuA4eLjVXNF-S5sACtQ?e=BTDBvg)
+install Unity at the official [website](https://unity.com/download)
 ```
 cd Magic-Mirror # go to the project folder
 ```
-Download the project from this [link]([xxx](https://1drv.ms/u/c/7f140570b31b938e/EUWoPQaSmrxNnvQVNrEAElEBCqbGuA4eLjVXNF-S5sACtQ?e=BTDBvg))
+Download the project from this [link](https://1drv.ms/u/c/7f140570b31b938e/EUWoPQaSmrxNnvQVNrEAElEBCqbGuA4eLjVXNF-S5sACtQ?e=BTDBvg)
 ```
 unzip Test 
 ```
