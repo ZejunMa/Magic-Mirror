@@ -47,6 +47,7 @@ The folder contains the unity project, including all assets， plug-in files, an
 ### Communication
 
 Step 0: C# and .NET configuration 
+
 Make sure VS Code is installed before. Install C# Extension and .NET Install Tool, and use which to configure .NET environment. 
 
 Step 1: In VS Code turn on the command panel (Windows and Linux: shortcut ctrl+shift+P), input `NuGet` -> `Add Package` -> add packages `AsyncIO`, `NetMQ`, `Newtonsoft.Json`, `NACI`. Then copy the .dll files of these packages, which can be found in the NuGet installation folder, to `.Assets/Plugins`. 
